@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple Product Management System implemented in Java. It allows you to add products with their details, such as name, type, place, and warranty. You can then perform two operations on the products:
+This is a simple Product Management System implemented in Java using stream API. It allows you to add products with their details, such as name, type, place, and warranty. You can then perform two operations on the products:
 
 1. Get products below a certain warranty year: You can retrieve a list of products whose warranty is less than a specified year.
 2. Get products by place: You can retrieve a list of products located in a specific place.
